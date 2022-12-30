@@ -1,0 +1,5 @@
+public class 안녕{
+
+	System.out.println("안녕하십니까");
+
+}
